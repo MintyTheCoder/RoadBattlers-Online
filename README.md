@@ -13,7 +13,8 @@ Pick a fighter, pick a stage, and knock your friend out of all three lives.
 ![Players](https://img.shields.io/badge/players-2%20local-blue)
 ![Input](https://img.shields.io/badge/input-gamepad-red)
 
-*Built by Nine Lives Interactive as a STEM POE project and shown at the STEM Showcase.*
+*Originially built by Nine Lives Interactive as a STEM POE project and shown at the STEM Showcase* \
+*Development continued by Montgomery Brown for Hack Club Terra*
 
 </div>
 
